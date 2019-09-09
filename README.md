@@ -7,7 +7,7 @@ Use MarkDown to modify this README document, and type in text to verify that you
 
 2. Request access to the Google drive folder
   
-3. Create a GitHub account and accept the HW00 assignment.
+3. Create a GitHub account and accept the HW00 assignment. This will create your own repository, typically something like username-hw00-f19.
   
 4. Recommended: Try a git tutorial, and become familiar with clone, commit, push. Try writing a Hello world program and pushing it to your GitHub repository.
   
@@ -17,4 +17,4 @@ Use MarkDown to modify this README document, and type in text to verify that you
      1. Edit this file to indicate success for each item. 
      2. Commit changes to this README and the linear regression notebook. 
      3. Push changes to your GitHub repository. Try to finish by Friday, 13 Sep.
-     4. If you have any questions, file them as Issues with the original repository. 
+     4. If you have any questions, file them as Issues with the [original repository](https://github.com/kuo-courses/hw00-f19). 
